@@ -1,6 +1,22 @@
 {
   "name": "argo-ci",
   "version": "1.0.0",
+  "description": "argo-ci workflow",
+  "keywords": [
+    "npm",
+    "nodejs",
+    "helm"
+  ],
+  "bugs": "jgunasekar@msystechnologies.com",
+  "repository": "https://github.com/argoproj/argo-ci",
+  "homepage": "https://localhost:8002/",
+  "engines": {},
+  "contributors": [
+    "amudha",
+    "bharath",
+    "jegan"
+  ],
+  "author": "Msys Community",
   "main": "src/app/main.ts",
   "license": "MIT",
   "scripts": {
