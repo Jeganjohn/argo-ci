@@ -34,10 +34,10 @@
     "express": "^4.16.2",
     "express-winston": "^3.0.1",
     "github-webhook-handler": "^0.7.0",
-    "js-yaml": "^3.10.0",
+    "js-yaml": "^3.13.0",
     "json-stream": "^1.0.0",
     "kubernetes-client": "^3.17.1",
-    "promisify-node": "^0.4.0",
+    "promisify-node": "^0.5.0",
     "request": "^2.83.0",
     "request-promise-native": "^1.0.5",
     "rxjs": "^5.5.6",
@@ -58,11 +58,12 @@
     "@types/shelljs": "^0.7.7",
     "@types/winston": "^2.4.4",
     "chai": "^4.1.2",
-    "chai-http": "^3.0.0",
+    "chai-http": "^4.2.1",
     "mocha": "^4.1.0",
-    "nodemon": "^1.12.7",
+    "nodemon": "^1.18.10",
     "ts-node": "^4.0.1",
     "tslint": "^5.8.0",
     "typescript": "^2.6.2"
   }
 }
+
