@@ -8,8 +8,8 @@
     "helm"
   ],
   "bugs": "jgunasekar@msystechnologies.com",
-  "repository": "https://github.com/argoproj/argo-ci",
-  "homepage": "https://localhost:8002/",
+  "repository": "https://github.com/argoproj/argo-ci.git",
+  "homepage": "http://argo.applatix.net",
   "engines": {},
   "contributors": [
     "amudha",
